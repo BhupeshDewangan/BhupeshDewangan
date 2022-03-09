@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Gmail Badge](https://img.shields.io/badge/-bhupeshdewangan2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhupeshdewangan2003@gmail.com)](mailto:bhupeshdewangan2003@gmail.com)
+
 <!--
 **BhupeshDewangan/BhupeshDewangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
