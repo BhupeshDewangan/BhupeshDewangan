@@ -14,7 +14,7 @@ I am Bhupesh Kumar Dewangan 😃. I am from Durg Bhilai, Chhattisgarh and curren
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with an Internship.
 - 💬 Talk to me about:
-* Front-end development using **HTML, Javascript, CSS, Bootstrap**.
+- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
 * Backend development using **Django**.
 * Desktop application development using **React Native** (Still learning).
 * Used Libraries Are Open CV(Computer Vision), Pandas, Numpy, Matplotlib.
