@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/bhupesh-dewangan-7121851ba/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 [![Gmail Badge](https://img.shields.io/badge/-bhupeshdewangan2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhupeshdewangan2003@gmail.com)](mailto:bhupeshdewangan2003@gmail.com)
 
 <!--
