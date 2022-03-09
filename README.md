@@ -28,4 +28,12 @@ I am Bhupesh Kumar Dewangan 😃. I am from Durg Bhilai, Chhattisgarh and curren
 - Email - bhupeshdewangan2003@gmail.com
 - Phone No. - 8319341550
 <!-- - 😄 Pronouns: -->
+
+### <img width="20vw" /> A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>" Life Is All About Balancing."  </i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
 ⚡ Fun fact: Sab Kuch Sikhte Sikhte, Ulajh Jata Hu !! 😁
