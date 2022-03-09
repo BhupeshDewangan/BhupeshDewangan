@@ -17,7 +17,7 @@ I am Bhupesh Kumar Dewangan 😃. I am from Durg Bhilai, Chhattisgarh and curren
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Machine Learning And Data Visualization.
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with an Internship.
+- 🤔 I’m looking for an Internship.
 - 💬 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
 - Backend development using **Django**.
