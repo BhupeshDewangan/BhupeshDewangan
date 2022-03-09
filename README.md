@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/bhupesh-dewangan-7121851ba/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+<!-- <a href="https://www.linkedin.com/in/bhupesh-dewangan-7121851ba/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a> -->
+
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/bhupesh-dewangan-7121851ba/)
 [![Gmail Badge](https://img.shields.io/badge/-bhupeshdewangan2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhupeshdewangan2003@gmail.com)](mailto:bhupeshdewangan2003@gmail.com)
 
 <!--
