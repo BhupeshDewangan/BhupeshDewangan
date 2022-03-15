@@ -12,7 +12,7 @@
 
 Here are some ideas to get you started:
 -->
-I am Bhupesh Kumar Dewangan 😃. I am from Durg Bhilai, Chhattisgarh and currently doing my B.Tech from Shri Shankaracharya Technical Campus, Bhilai. I love to explore and learn about new things.
+I am Bhupesh Kumar Dewangan 😃. I am from Durg Bhilai, Chhattisgarh and currently pursuing my B.Tech Degree from Shri Shankaracharya Technical Campus, Bhilai. I love to explore and learn about new things.
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Machine Learning And Data Visualization.
