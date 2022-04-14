@@ -44,4 +44,6 @@ I am Bhupesh Kumar Dewangan 😃. I am from Durg Bhilai, Chhattisgarh and curren
 ⚡ Fun fact: Sab Kuch Sikhte Sikhte, Ulajh Jata Hu !! 😁
 
 
-![Bhupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhupeshDewangan&show_icons=true&theme=codeSTACKr)
+![Bhupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhupeshDewangan&show_icons=true&theme=nightowl)
+ <br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhupeshDewangan&langs=8&theme=tokyonight)](https://github.com/BhupeshDewangan/github-readme-stats)
