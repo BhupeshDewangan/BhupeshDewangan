@@ -5,8 +5,9 @@
 <!-- [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/bhupesh-dewangan-7121851ba/) -->
 
 <!-- <a target="_blank" href="https://www.linkedin.com/in/bhupesh-dewangan-7121851ba/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> -->
-<a href="https://www.linkedin.com/in/bhupesh-dewangan-7121851ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupesh-dew" height="30" width="40" /></a>
-&nbsp;&nbsp;[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhupeshdewangan2003@gmail.com)
+<a href="https://www.linkedin.com/in/bhupesh-dewangan-7121851ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupesh-dew"  width="40" /></a>
+
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhupeshdewangan2003@gmail.com)
 
 <!--
 **BhupeshDewangan/BhupeshDewangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
