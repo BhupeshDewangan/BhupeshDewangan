@@ -18,7 +18,7 @@ I am Bhupesh Kumar Dewangan 😃. I am from Durg Bhilai, Chhattisgarh and curren
 - 💬 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
 - Backend development using **Django**.
-- Desktop application development using **React Native** (Still learning).
+- Learning Machine Learning.
 - Used Libraries Are Open CV(Computer Vision), Pandas, Numpy, Matplotlib.
 - Solving Some Basic Level Data structure and algorithm questions in **C++ and Python**.
 - 📫 How to reach me: 
