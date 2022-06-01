@@ -1,8 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi There, <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="wave" width 40 height=40/></h1> 
+<h1 align="center">Welcome To My Github Repo.</h1>
 
-<a href="https://www.linkedin.com/in/bhupesh-dewangan-7121851ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupesh-dew"  width="35" /></a>
+<!-- <a href="https://www.linkedin.com/in/bhupesh-dewangan-7121851ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupesh-dew"  width="35" /></a>
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhupeshdewangan2003@gmail.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhupeshdewangan2003@gmail.com) -->
 
 <!--
 **BhupeshDewangan/BhupeshDewangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,6 +43,11 @@ I am Bhupesh Kumar Dewangan 😃. I am from Durg Bhilai, Chhattisgarh and curren
 <!-- </a> -->
 
 ⚡ Fun fact: Sab Kuch Sikhte Sikhte, Ulajh Jata Hu !! 😁
+          
+          
+ ### &nbsp; How To Reach Me?
+&nbsp;&nbsp;[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhupeshdewangan2003@gmail.com)
+&nbsp;&nbsp;[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupesh-dewangan-7121851ba/)
 
 
 ![Bhupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhupeshDewangan&show_icons=true&theme=nightowl)
