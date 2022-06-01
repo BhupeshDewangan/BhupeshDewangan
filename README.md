@@ -43,7 +43,7 @@ I am Bhupesh Kumar Dewangan 😃. I am from Durg Bhilai, Chhattisgarh and curren
 <!-- </a> -->
 
 ⚡ Fun fact: Sab Kuch Sikhte Sikhte, Ulajh Jata Hu !! 😁
-          
+  
           
  ### &nbsp; How To Reach Me?
 &nbsp;&nbsp;[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhupeshdewangan2003@gmail.com)
