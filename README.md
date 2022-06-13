@@ -20,7 +20,7 @@ I am Bhupesh Kumar Dewangan 😃. I am from Durg Bhilai, Chhattisgarh and curren
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
 - Backend development using **Django**.
 - Currently working on some Machine Learning Projects.
-- Used Libraries Are Open CV(Computer Vision), Pandas, Numpy, Matplotlib.
+- Used Libraries Are Open CV(Computer Vision), Pandas, Numpy, Matplotlib, Tensorflow, Scikit-Learn.
 - Solving Some Basic Level Data structure and algorithm questions in **C++ and Python**.
 - 📫 How to reach me: 
 - Personal Portfolio - https://bhupeshportfolio.netlify.app/
