@@ -10,28 +10,35 @@
 
 Here are some ideas to get you started:
 -->
-I am Bhupesh Kumar Dewangan 😃. I am from Durg Bhilai, Chhattisgarh and currently pursuing my B.Tech Degree from Shri Shankaracharya Technical Campus, Bhilai. I love to explore and learn about new things.
+I am Bhupesh Kumar Dewangan 😃. I am from Bhilai Durg, Chhattisgarh and currently pursuing my B.Tech Degree from Shri Shankaracharya Technical Campus, Bhilai. I love to explore and learn about new things.
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Machine Learning And Data Visualization.
+- 🌱 I’m currently learning Machine Learning And Deep learning.
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for an Internship.
 - 💬 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- Backend development using **Django**.
-- Currently working on some Machine Learning Projects.
-- Used Libraries Are Open CV(Computer Vision), Pandas, Numpy, Matplotlib, Tensorflow, Scikit-Learn.
+- Front-end development : **HTML, Javascript, CSS, Bootstrap**.
+- Backend development : **Django, MySQL**.
+- Data Analysis Tools : **Power BI, SQL, Python, Excel, Numpy, Pandas, Seaborn, Matplotlit**.
+- Machine Learning With: **Python, VS Code, Jupyter Notebook, Keras, Tensorflow, Scikit-Learn, OpenCV**
+- Done !!!! So many project on ML, Data Analysis, Data Science !
+- Currently working on some Deep Learning Projects.
+
 - Solving Some Basic Level Data structure and algorithm questions in **C++ and Python**.
 - 📫 How to reach me: 
 - Personal Portfolio - https://bhupeshportfolio.netlify.app/
 - Email - bhupeshdewangan2003@gmail.com
 - Phone No. - 8319341550
+- Leetcode Profile - https://leetcode.com/Bhupesh_Dewangan/
+- Code Studio Profile - https://www.codingninjas.com/codestudio/profile/ca83b5ed-a8f6-4338-8f9f-bfbab2b40d74
+
 <!-- - 😄 Pronouns: -->
 
 <h3> Languages and Tools: </h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobexd" width="40" height="40" />
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt = "figma" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobexd" width="40" height="40" /> <img height = 60 width = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img height = 70 width = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" /><img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img height = 70 width = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /><img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><img height = 70 width = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" />
+
+<img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />    <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> <img height = 60 width = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />    <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /> 
           
           
 
@@ -42,7 +49,7 @@ I am Bhupesh Kumar Dewangan 😃. I am from Durg Bhilai, Chhattisgarh and curren
 <!--ENDS_HERE_QUOTE_README-->
 <!-- </a> -->
 
-⚡ Fun fact: Sab Kuch Sikhte Sikhte, Ulajh Jata Hu !! 😁
+⚡ Fun fact: Sab Kuch Sikhte Sikhte, Ulajh Jata Tha, Ab Sab Clear Hai, Kaun Sa Field Choose Krna Hai !! 😁
   
           
  ### &nbsp; How To Reach Me?
