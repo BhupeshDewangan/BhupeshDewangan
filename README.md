@@ -13,20 +13,22 @@ Here are some ideas to get you started:
 I am Bhupesh Kumar Dewangan 😃. I am from Bhilai Durg, Chhattisgarh and currently pursuing my B.Tech Degree from Shri Shankaracharya Technical Campus, Bhilai. I love to explore and learn about new things.
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Machine Learning And Deep learning.
+- 🌱 I’m currently learning Data Analysis, Machine Learning And Data Science.
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for an Internship.
 - 💬 Talk to me about:
 - Front-end development : **HTML, Javascript, CSS, Bootstrap**.
-- Backend development : **Django, MySQL**.
+- Backend development : **Django**.
+- Database : **MySQL, Postgres SQL, Mongo DB, Big Query**.
 - Data Analysis Tools : **Power BI, SQL, Python, Excel, Numpy, Pandas, Seaborn, Matplotlit**.
-- Machine Learning With: **Python, VS Code, Jupyter Notebook, Keras, Tensorflow, Scikit-Learn, OpenCV**
-- Done !!!! So many project on ML, Data Analysis, Data Science !
-- Currently working on some Deep Learning Projects.
+- Machine Learning With: **Python, Google Colab, Jupyter Notebook, Keras, Tensorflow, Scikit-Learn, OpenCV**
+- Done !!!! So many projects on Machine Learning, Data Analysis, and Data Science!
+- Currently working on Problem Solving Using SQL and DSA.
 
 - Solving Some Basic Level Data structure and algorithm questions in **C++ and Python**.
 - 📫 How to reach me: 
-- Personal Portfolio - https://bhupeshportfolio.netlify.app/
+- Personal Portfolio (old) - https://bhupeshportfolio.netlify.app/
+- Personal Portfolio (New) - https://bhupesh-portfolio.streamlit.app/
 - Email - bhupeshdewangan2003@gmail.com
 - Phone No. - 8319341550
 - Leetcode Profile - https://leetcode.com/Bhupesh_Dewangan/
@@ -39,7 +41,6 @@ I am Bhupesh Kumar Dewangan 😃. I am from Bhilai Durg, Chhattisgarh and curren
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobexd" width="40" height="40" /> <img height = 60 width = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img height = 70 width = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" /><img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img height = 70 width = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /><img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><img height = 70 width = 70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" />
 
 <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />    <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> <img height = 60 width = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />    <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> <img height = 45 width = 45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /> 
-          
           
 
 ### <img width="10vw" /> A Famous Fact/Quote:
