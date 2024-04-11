@@ -19,9 +19,10 @@ I am Bhupesh Kumar Dewangan 😃. I am from Bhilai Durg, Chhattisgarh and curren
 - 💬 Talk to me about:
 - Front-end development : **HTML, Javascript, CSS, Bootstrap**.
 - Backend development : **Django**.
-- Database : **MySQL, Postgres SQL, Mongo DB, Big Query**.
-- Data Analysis Tools : **Power BI, SQL, Python, Excel, Numpy, Pandas, Seaborn, Matplotlit**.
-- Machine Learning With: **Python, Google Colab, Jupyter Notebook, Keras, Tensorflow, Scikit-Learn, OpenCV**
+- Database : **MySQL, Postgres SQL, Mongo DB, Big Query, Cassendra DB**.
+- Data Analysis Tools : **Power BI, SQL, Python, Excel, Numpy, Pandas, Seaborn, Matplotlit, Pycaret**.
+- Machine Learning With: **Python, Google Colab, Jupyter Notebook, Keras, Tensorflow, Scikit-Learn, OpenCV, Speech Recognition**
+- Generative AI: **Langchain, LLMS, OPEN AI, LLAMA INDEX, GEMINI PRO, RAG**
 - Done !!!! So many projects on Machine Learning, Data Analysis, and Data Science!
 - Currently working on Problem Solving Using SQL and DSA.
 
@@ -32,6 +33,7 @@ I am Bhupesh Kumar Dewangan 😃. I am from Bhilai Durg, Chhattisgarh and curren
 - Email - bhupeshdewangan2003@gmail.com
 - Phone No. - 8319341550
 - Leetcode Profile - https://leetcode.com/Bhupesh_Dewangan/
+- GFG - https://auth.geeksforgeeks.org/user/bhupeshdewangan2003
 - Code Studio Profile - https://www.codingninjas.com/codestudio/profile/ca83b5ed-a8f6-4338-8f9f-bfbab2b40d74
 
 <!-- - 😄 Pronouns: -->
@@ -46,7 +48,7 @@ I am Bhupesh Kumar Dewangan 😃. I am from Bhilai Durg, Chhattisgarh and curren
 ### <img width="10vw" /> A Famous Fact/Quote:
 <!-- <a href="https://github.com/marketplace/actions/quote-readme"> -->
 <!--STARTS_HERE_QUOTE_README-->
-• <i>" Life Is All About Balancing."  </i>
+• <i>" Life Is All About Balancing, Exploring New Things and Learning Lots of Things..........."  </i>
 <!--ENDS_HERE_QUOTE_README-->
 <!-- </a> -->
 
